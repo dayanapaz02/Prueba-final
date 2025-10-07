@@ -1,0 +1,45 @@
+2025-09-29 13:44:15 - ::1 - dayanamichellepazchavez@gmail.com - REGISTRO_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 13:46:14 - ::1 - dayanamichellepazchavez@gmail.com - REGISTRO_FALLIDO: Este email ya está registrado - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 13:47:11 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 13:47:20 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 13:48:44 - ::1 - usuario_no_autenticado - ACCESO_DENEGADO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 13:52:42 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 14:59:05 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 15:22:36 - ::1 - lourdeschavez20154@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-29 15:24:18 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 07:55:21 - ::1 - usuario_no_autenticado - ACCESO_DENEGADO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 07:55:41 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 07:55:48 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 08:36:43 - ::1 - dayanamichellepazchavez@gmail.com - LOGOUT - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 08:37:32 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 08:37:46 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 08:37:55 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 08:38:36 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-09-30 08:39:00 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:01:41 - ::1 - paz982643@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:01:49 - ::1 - paz982643@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:04:09 - ::1 - paz982643@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:04:23 - ::1 - paz982643@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:04:34 - ::1 - paz982643@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:11:55 - ::1 - dargffuh@gmail.com - REGISTRO_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:13:02 - ::1 - dayanamichellepazchavez@gmail.com - REGISTRO_FALLIDO: Este email ya está registrado - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:13:41 - ::1 - deferreraarly@gmail.com - REGISTRO_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:17:17 - ::1 - deferreraarly@gmail.com - REGISTRO_FALLIDO: Este email ya está registrado - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:18:07 - ::1 - lourdeschavez20154@gmail.com - REGISTRO_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 16:18:24 - ::1 - lourdeschavez20154@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 17:56:13 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-02 18:06:50 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-04 18:41:44 - ::1 - lou@gmail.com - REGISTRO_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 08:00:24 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 08:15:41 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 09:19:28 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 11:11:43 - ::1 - dayanamichellepazchavez@gmail.com - LOGIN_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 13:40:51 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 13:51:11 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 13:52:36 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 13:56:13 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 14:00:35 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 14:00:56 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 14:54:55 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 14:55:19 - ::1 - carmensabillonrodriguez@gmail.com - LOGIN_FALLIDO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+2025-10-06 18:17:58 - ::1 - dayapaz02@gmail.com - REGISTRO_EXITOSO - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
